@@ -1,22 +1,26 @@
+#EXTM3U
 #EXTINF:-1,ALL TIME HITS
-https://stream.zeno.fm/nenajo1bxnpuv     
-                                                                                                                                   #EXTINF:-1,ENGLISH SONGS
-https://stream.zeno.fm/fk58sd2c7ehvv      
-                                                                                                                    #EXTINF:-1,INTERNATIONAL FM                                                        https://stream.zeno.fm/00h111393k0uv
+https://stream.zeno.fm/nenajo1bxnpuv
 
-#EXTINF:-1,FM GLOBAL 
+#EXTINF:-1,ENGLISH SONGS
+https://stream.zeno.fm/fk58sd2c7ehvv
+
+#EXTINF:-1,INTERNATIONAL FM
+https://stream.zeno.fm/00h111393k0uv
+
+#EXTINF:-1,FM GLOBAL
 https://stream.zeno.fm/g4ujol4pfbtuv
 
-#EXTINF:-1,ENGLISH SONGS 2 
+#EXTINF:-1,ENGLISH SONGS 2
 https://stream.zeno.fm/jivyo4mmkp1vv
 
-#EXTINF:-1,POP HITS  
+#EXTINF:-1,POP HITS
 https://stream.zeno.fm/oe9zdwoawkotv
 
 #EXTINF:-1,Tamil FM
 https://stream.zeno.fm/y52ua3ffyy8uv
 
-#EXTINF:-1,Music Mojo 
+#EXTINF:-1,Music Mojo
 https://stream.zeno.fm/hrteq9s2zf8uv
 
 #EXTINF:-1,Mirchi FM
@@ -25,7 +29,7 @@ https://stream.zeno.fm/fcc7aebczy8uv
 #EXTINF:-1,Hindi FM
 https://stream.zeno.fm/h8dtb1ykxy8uv
 
-#EXTINF:-1,BEAT MUSIC 
+#EXTINF:-1,BEAT MUSIC
 https://stream.zeno.fm/4n5zy3k7g18uv
 
 #EXTINF:-1,Malayalam Melody
